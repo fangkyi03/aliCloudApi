@@ -1,0 +1,14 @@
+{
+  "name": "alicloudapi",
+  "version": "1.0.0",
+  "description": "阿里云api支持一键创建ecs服务器",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rockswang",
+  "license": "MIT",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9"
+  }
+}
